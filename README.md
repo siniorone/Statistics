@@ -8,5 +8,5 @@
 3. [Quantitative Data Numerical Summaries](notebooks/003_Quantitative_Data_Numerical_Summaries.ipynb)
 4. [Standard Score (Empirical Rule)](notebooks/004_Standard_Score_Empirical_Rule.ipynb)
 
-
+---
 99. [Usefull Links](notebooks/099_Usefull_Links.ipynb)
