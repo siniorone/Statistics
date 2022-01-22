@@ -1,0 +1,1001 @@
+position,change in position from 2020,city,country,total score,quatity score,quality score,business score,sign of change in position
+1,0,San Francisco Bay, United States,328.966,29.14,296.02,3.8,
+2,0,New York, United States,110.777,11.43,95.55,3.8,
+3,3,Beijing, China,66.049,5.01,58.61,2.43,+
+4,1,Los Angeles Area, United States,58.441,11.23,43.41,3.8,+
+5,2,London, United Kingdom,56.913,15.77,37.44,3.7,-
+6,2,Boston Area, United States,49.835,5.5,40.53,3.8,-
+7,3,Shanghai, China,42.162,3.57,36.17,2.43,+
+8,1,Tel Aviv Area, Israel,27.084,4.04,19.92,3.13,-
+9,0,Moscow, Russia,25.401,7.37,15.64,2.39,
+10,4,Bangalore, India,25.367,5.04,17.95,2.38,+
+11,1,Paris, France,25.297,5.27,16.62,3.41,+
+12,1,Seattle, United States,24.329,3.49,17.04,3.8,-
+13,5,Berlin, Germany,23.872,4.03,16.35,3.49,-
+14,1,New Delhi, India,22.379,5.88,13.9,2.61,+
+15,1,Tokyo, Japan,21.792,2.5,16,3.3,+
+16,6,Mumbai, India,19.414,3.27,13.54,2.61,+
+17,4,Chicago, United States,19.121,4.37,10.95,3.8,-
+18,1,Austin, United States,18.598,3.2,11.6,3.8,-
+19,11,Washington DC Area, United States,18.064,3.47,10.79,3.8,+
+20,2,Sao Paulo, Brazil,17.642,2.63,12.72,2.29,-
+21,12,Shenzhen, China,17.403,1.76,13.66,1.99,+
+22,6,San Diego, United States,17.272,2.64,10.83,3.8,+
+23,2,Seoul, South Korea,16.68,1.6,11.83,3.24,-
+24,5,Stockholm, Sweden,15.748,1.83,10.13,3.78,+
+25,1,Singapore City, Singapore,15.713,3.16,9.25,3.3,+
+26,2,Toronto, Canada,15.678,4.64,7.49,3.55,-
+27,4,Dallas-Fort Worth, United States,15.535,2.9,8.84,3.8,-
+28,9,Atlanta, United States,15.106,2.59,8.72,3.8,-
+29,9,Amsterdam, The Netherlands,13.578,2.46,7.82,3.3,-
+30,4,Denver, United States,13.554,2.36,7.39,3.8,+
+31,6,Miami Area, United States,13.213,3.21,6.21,3.8,-
+32,4,Hong Kong, China,13.2,2.77,8.18,2.26,+
+33,12,Hangzhou, China,13.167,0.95,10.14,2.08,+
+34,7,Jakarta, Indonesia,13.158,1.7,9.76,1.71,+
+35,9,Philadelphia, United States,13.111,1.7,7.62,3.8,+
+36,5,Sydney, Australia,11.998,3.13,5.37,3.5,-
+37,10,Barcelona, Spain,11.918,3.17,5.43,3.31,-
+38,0,Munich, Germany,11.769,1.8,6.47,3.49,
+39,1,Melbourne, Australia,10.572,2.14,4.93,3.5,+
+40,3,Raleigh Durham, United States,10.474,1.09,5.8,3.58,+
+41,1,Taipei City, Taiwan,10.45,2.39,4.48,3.58,+
+42,5,Vancouver, Canada,10.35,2.39,4.41,3.55,-
+43,7,Minneapolis, United States,10.219,1.12,5.3,3.8,+
+44,5,Helsinki, Finland,10.006,1.77,4.6,3.64,-
+45,10,Madrid, Spain,9.553,2.4,3.84,3.31,-
+46,3,Montreal, Canada,9.248,1.79,3.91,3.55,+
+47,5,Phoenix, United States,8.469,1.58,3.09,3.8,+
+48,16,Kiev, Ukraine,8.436,1.86,3.97,2.6,-
+49,1,Detroit, United States,8.402,1.19,3.41,3.8,-
+50,3,Mexico City, Mexico,8.385,1.24,4.6,2.54,+
+51,3,Dublin, Ireland,8.309,1.6,3.27,3.44,+
+52,7,Houston, United States,8.251,1.34,3.11,3.8,+
+53,2,Portland, United States,7.974,1.38,2.79,3.8,-
+54,1,Jerusalem, Israel,7.776,0.98,3.67,3.13,+
+55,16,Salt Lake City, United States,7.719,0.77,3.76,3.19,+
+56,6,Milan, Italy,7.529,1.53,2.94,3.06,+
+57,8,Zurich, Switzerland,7.524,1.54,2.44,3.54,+
+58,11,Charlotte, United States,7.517,0.82,2.9,3.8,+
+59,4,Boulder, United States,7.174,1.32,2.05,3.8,+
+60,14,Buenos Aires, Argentina,7.152,1.84,3.33,1.98,-
+61,6,Copenhagen, Denmark,7.055,1.26,2.15,3.65,+
+62,6,Las Vegas, United States,7.023,1.01,2.22,3.8,-
+63,11,Nashville, United States,6.917,0.76,2.36,3.8,+
+64,17,Hamburg, Germany,6.897,1.19,2.22,3.49,-
+65,35,Guangzhou, China,6.893,0.63,4.09,2.18,+
+66,0,Tallinn, Estonia,6.888,1.14,2.44,3.31,
+67,32,Dubai, United Arab Emirates,6.883,1.87,2.21,2.8,+
+68,11,Manchester, United Kingdom,6.877,0.68,2.49,3.7,+
+69,11,Istanbul, Turkey,6.733,2.25,1.79,2.69,+
+70,10,Santiago, Chile,6.67,1.55,2.49,2.63,-
+71,19,Bangkok, Thailand,6.558,1.15,3.05,2.36,+
+72,8,Brussels, Belgium,6.502,1.13,2.07,3.31,-
+73,15,Pittsburgh, United States,6.452,0.88,1.77,3.8,-
+74,13,Santa Barbara, United States,6.432,0.25,2.38,3.8,-
+75,20,Columbus, United States,6.391,0.76,1.83,3.8,+
+76,99,Cambridge, United Kingdom,6.373,0.41,2.4,3.56,+
+77,0,Bogota, Colombia,6.364,1.13,2.95,2.28,
+78,5,Warsaw, Poland,6.345,1.07,2.1,3.17,-
+79,153,Provo, United States,6.33,0.42,2.11,3.8,+
+80,14,Kuala Lumpur, Malaysia,6.298,1.25,1.98,3.06,+
+81,5,Tampa Bay Area, United States,6.275,0.83,1.65,3.8,-
+82,3,Lisbon, Portugal,6.113,1.22,1.74,3.16,+
+83,2,Prague, Czechia,6.093,1.02,1.81,3.26,-
+84,9,Vilnius, Lithuania,6.037,1.37,1.42,3.25,-
+85,1,Vienna, Austria,5.972,1.11,1.35,3.52,-
+86,63,Chengdu, China,5.963,0.34,3.43,2.2,+
+87,1,Manila Area, Philippines,5.948,1.58,2.11,2.26,+
+88,33,Sacramento, United States,5.923,0.5,1.62,3.8,+
+89,32,Ottawa, Canada,5.88,0.67,1.66,3.55,-
+90,22,Bristol, United Kingdom,5.703,0.47,1.52,3.7,-
+91,32,Cincinnati, United States,5.682,0.5,1.38,3.8,+
+92,86,Oxford, United Kingdom,5.638,0.36,1.58,3.7,+
+93,21,Basel, Switzerland,5.512,0.36,1.61,3.54,-
+94,4,Madison, United States,5.495,0.69,1.01,3.8,+
+95,93,Wilmington, United States,5.485,0.31,1.38,3.8,+
+96,46,Lausanne, Switzerland,5.453,0.45,1.46,3.54,+
+97,14,Frankfurt, Germany,5.438,0.65,1.3,3.49,-
+98,9,Kansas City, United States,5.402,0.59,1.02,3.8,-
+99,6,Oslo, Norway,5.397,0.65,1.09,3.66,+
+100,8,Baltimore, United States,5.337,0.92,0.62,3.8,-
+101,19,Kitchener Waterloo, Canada,5.332,0.7,1.08,3.55,+
+102,31,Edinburgh, United Kingdom,5.27,0.51,1.05,3.7,+
+103,33,Columbia, United States,5.262,0.23,1.24,3.8,-
+104,2,Pune, India,5.261,1.43,1.22,2.61,-
+105,19,Auckland, New Zealand,5.193,0.6,0.9,3.69,+
+106,10,Hyderabad, India,5.161,1.75,0.81,2.61,-
+107,25,Orlando, United States,5.139,0.84,0.5,3.8,-
+108,49,Stuttgart, Germany,5.115,0.39,1.23,3.49,+
+109,83,Santa Cruz, United States,5.024,0.23,0.99,3.8,+
+110,4,San Antonio, United States,5.021,0.48,0.74,3.8,-
+111,8,Bucharest, Romania,5.014,0.78,1.34,2.89,-
+112,34,Brisbane, Australia,4.945,0.86,0.58,3.5,-
+113,22,New Orleans, United States,4.885,0.35,0.74,3.8,+
+114,98,Birmingham, United Kingdom,4.882,0.32,0.86,3.7,+
+115,51,Burlington, United States,4.868,0.26,0.81,3.8,+
+116,19,Calgary, Canada,4.849,0.72,0.59,3.55,-
+117,9,Indianapolis, United States,4.83,0.52,0.51,3.8,-
+118,11,Geneva, Switzerland,4.825,0.5,0.78,3.54,+
+119,24,Haifa, Israel,4.777,0.25,1.4,3.13,+
+120,21,Porto, Portugal,4.763,0.44,1.22,3.1,+
+121,35,Sofia, Bulgaria,4.755,1.47,0.54,2.75,-
+122,5,Lagos, Nigeria,4.693,1.26,2.03,1.41,+
+123,134,The Hague, The Netherlands,4.644,0.46,0.89,3.3,+
+124,127,Kyoto, Japan,4.63,0.29,1.19,3.15,+
+125,14,Quebec City, Canada,4.624,0.58,0.94,3.1,+
+126,35,Edmonton, Canada,4.604,0.69,0.37,3.55,-
+127,5,Cologne, Germany,4.584,0.59,0.5,3.49,-
+128,54,Osaka, Japan,4.564,0.13,1.13,3.3,+
+129,81,Albuquerque, United States,4.525,0.2,0.75,3.58,+
+130,345,Rhine-Neckar Area, Germany,4.511,0.2,0.82,3.49,+
+131,30,Utrecht, The Netherlands,4.497,0.4,0.79,3.3,+
+132,73,Toulouse, France,4.477,0.33,0.74,3.41,+
+133,20,Chennai, India,4.448,1.06,0.78,2.61,-
+134,47,Budapest, Hungary,4.357,1.04,0.41,2.91,-
+135,23,Kaunas, Lithuania,4.302,0.73,0.32,3.25,-
+136,20,Nairobi, Kenya,4.277,0.75,0.95,2.58,-
+137,106,Malmö, Sweden,4.27,0.21,0.69,3.38,+
+138,27,Lima, Peru,4.253,0.5,1.45,2.31,-
+139,26,St. Louis, United States,4.245,0.46,0.42,3.36,+
+140,36,Rome, Italy,4.205,0.8,0.35,3.06,-
+141,3,Kingston, Canada,4.193,0.57,0.59,3.03,+
+142,48,Buffalo, United States,4.142,0.2,0.66,3.28,+
+143,139,Bend, United States,4.054,0.1,0.74,3.21,+
+144,39,Curitiba, Brazil,4.053,0.36,1.4,2.29,+
+145,1,Cape Town, South Africa,4.047,0.8,0.94,2.31,+
+146,10,Valencia, Spain,4.021,0.47,0.47,3.09,+
+147,37,Cleveland, United States,4.015,0.51,0.33,3.18,-
+148,55,Rio de Janeiro, Brazil,4.003,0.6,1.12,2.29,-
+149,40,Monterrey, Mexico,3.997,0.35,1.1,2.54,-
+150,31,Krakow, Poland,3.988,0.58,0.38,3.03,+
+151,25,Xiamen, China,3.87,0.17,1.27,2.43,-
+152,8,Johannesburg, South Africa,3.864,0.5,1.05,2.31,+
+153,46,Athens, Greece,3.783,0.63,0.42,2.73,-
+154,53,Belo Horizonte, Brazil,3.763,0.52,0.96,2.29,-
+155,37,Riga, Latvia,3.685,0.59,0.3,2.79,-
+156,42,Guadalajara, Mexico,3.682,0.35,0.79,2.54,-
+157,36,Eindhoven, The Netherlands,3.552,0.58,0.24,2.73,+
+158,5,Ghent, Belgium,3.524,0.45,0.37,2.71,+
+159,40,Belgrade, Serbia,3.489,0.68,0.27,2.54,-
+160,8,Louisville, United States,3.415,0.27,0.45,2.7,-
+161,198,Bonn, Germany,3.41,0.11,0.65,2.65,+
+162,new,Busan, South Korea,3.383,0.05,0.75,2.58,
+163,41,Marseille, France,3.314,0.49,0.26,2.56,+
+164,24,Lyon, France,3.304,0.47,0.27,2.56,-
+165,110,Montevideo, Uruguay,3.275,0.21,0.84,2.22,+
+166,29,Zug, Switzerland,3.266,0.25,0.47,2.55,+
+167,50,Leipzig, Germany,3.232,0.52,0.2,2.51,-
+168,3,Wrocław, Poland,3.209,0.44,0.33,2.44,+
+169,146,Abu Dhabi, United Arab Emirates,3.188,0.2,0.64,2.35,+
+170,32,Lexington, United States,3.185,0.18,0.48,2.52,-
+171,4,Gothenburg, Sweden,3.075,0.25,0.4,2.43,-
+172,47,Rotterdam, The Netherlands,3.027,0.48,0.22,2.32,-
+173,41,Milwaukee, United States,2.995,0.4,0.22,2.37,-
+174,82,Wuhan, China,2.968,0.17,1.18,1.62,+
+175,39,Perth, Australia,2.924,0.37,0.28,2.27,-
+176,11,Ahmedabad, India,2.923,0.53,0.28,2.11,+
+177,43,Jacksonville, United States,2.905,0.3,0.31,2.3,-
+178,63,Zagreb, Croatia,2.898,0.49,0.26,2.15,-
+179,46,Ho Chi Minh City, Vietnam,2.897,0.4,0.61,1.89,+
+180,21,Cairo, Egypt,2.732,0.95,0.44,1.34,+
+181,305,Mainz, Germany,2.693,0.03,0.57,2.09,+
+182,62,New Haven, United States,2.653,0.16,0.39,2.1,+
+183,52,Medellin, Colombia,2.627,0.44,0.36,1.83,-
+184,56,Ljubljana, Slovenia,2.574,0.41,0.22,1.94,-
+185,31,Omaha, United States,2.571,0.22,0.31,2.04,-
+186,24,Luxembourg City, Luxembourg,2.564,0.45,0.21,1.91,-
+187,36,Glasgow, United Kingdom,2.54,0.35,0.19,2,-
+188,12,Porto Alegre, Brazil,2.538,0.33,0.45,1.77,+
+189,34,Richmond, United States,2.468,0.33,0.19,1.95,-
+190,60,Brighton, United Kingdom,2.453,0.32,0.2,1.93,-
+191,5,Hanoi, Vietnam,2.431,0.4,0.47,1.55,+
+192,89,Riyadh, Saudi Arabia,2.415,0.39,0.34,1.68,+
+193,48,Victoria, Canada,2.414,0.29,0.24,1.88,-
+194,36,Dusseldorf, Germany,2.294,0.34,0.17,1.78,-
+195,39,Jaipur, India,2.278,0.37,0.26,1.65,+
+196,48,Bratislava, Slovakia,2.225,0.33,0.21,1.68,-
+197,12,Boise, United States,2.194,0.13,0.33,1.74,-
+198,48,Adelaide, Australia,2.17,0.37,0.11,1.69,-
+199,52,Saint Petersburg, Russia,2.14,0.35,0.23,1.56,-
+200,26,Belfast, United Kingdom,2.112,0.33,0.12,1.66,-
+201,2,Amman, Jordan,2.088,0.28,0.33,1.47,+
+202,18,Graz, Austria,2.068,0.27,0.18,1.61,+
+203,35,Charleston, United States,2.044,0.28,0.15,1.62,-
+204,new,Sankt Gallen, Switzerland,2.042,0.03,0.42,1.59,
+205,760,Nanjing, China,2.041,0.11,0.94,0.99,+
+206,47,Princeton, United States,2.033,0.26,0.16,1.61,-
+207,6,Newcastle upon Tyne, United Kingdom,1.968,0.2,0.22,1.55,+
+208,new,Reading, United Kingdom,1.961,0.13,0.29,1.54,
+209,21,Hartford, United States,1.957,0.22,0.19,1.55,+
+210,21,Ankara, Turkey,1.932,0.34,0.18,1.41,-
+211,50,Birmingham-Hoover, United States,1.911,0.23,0.17,1.51,+
+212,21,Leeds, United Kingdom,1.908,0.27,0.13,1.5,-
+213,75,Lafayette, United States,1.842,0.18,0.2,1.46,+
+214,24,Kolkata, India,1.835,0.37,0.14,1.33,+
+215,16,Bordeaux, France,1.822,0.27,0.15,1.41,+
+216,600,Changsha, China,1.821,0.03,0.81,0.97,+
+217,23,Bilbao, Spain,1.821,0.32,0.11,1.4,-
+218,7,Fort Collins, United States,1.803,0.17,0.21,1.43,-
+219,33,Colorado Springs, United States,1.75,0.21,0.15,1.39,-
+220,50,Poznan, Poland,1.73,0.27,0.14,1.31,-
+221,55,Reykjavik, Iceland,1.709,0.21,0.24,1.26,+
+222,24,Chattanooga, United States,1.696,0.23,0.12,1.34,-
+223,50,Providence, United States,1.693,0.21,0.14,1.34,-
+224,52,Bern, Switzerland,1.673,0.23,0.14,1.3,-
+225,4,Las Palmas de Gran Canaria, Spain,1.66,0.33,0.06,1.27,+
+226,57,Rochester, United States,1.654,0.16,0.18,1.31,-
+227,48,Oklahoma City, United States,1.653,0.23,0.11,1.31,-
+228,17,Aarhus, Denmark,1.643,0.2,0.15,1.29,+
+229,53,Fresno, United States,1.622,0.06,0.28,1.28,-
+230,33,Minsk, Belarus,1.598,0.33,0.16,1.11,-
+231,9,Turin, Italy,1.583,0.25,0.14,1.19,+
+232,7,Nantes, France,1.577,0.23,0.13,1.22,+
+233,0,Lille, France,1.549,0.23,0.12,1.2,
+234,11,Halifax, Canada,1.543,0.17,0.17,1.2,-
+235,58,Brno, Czechia,1.541,0.19,0.17,1.18,-
+236,671,Chongqing, China,1.512,0.05,0.39,1.07,+
+237,80,Antwerp, Belgium,1.497,0.21,0.14,1.15,+
+238,39,Beer Sheva, Israel,1.49,0.08,0.28,1.13,-
+239,23,Tucson, United States,1.474,0.19,0.11,1.17,-
+240,new,Fukuoka, Japan,1.467,0.11,0.23,1.13,
+241,46,Karlsruhe, Germany,1.465,0.13,0.19,1.14,+
+242,62,Grand Rapids, United States,1.453,0.21,0.1,1.15,-
+243,21,Rennes, France,1.439,0.22,0.1,1.11,-
+244,2,Nice, France,1.434,0.21,0.12,1.11,-
+245,8,Santa Cruz de Tenerife, Spain,1.429,0.26,0.07,1.1,-
+246,38,Nagoya, Japan,1.404,0.07,0.26,1.08,-
+247,77,Grenoble, France,1.399,0.11,0.21,1.08,+
+248,7,Albany, United States,1.383,0.12,0.17,1.09,+
+249,10,Sunshine Coast, Australia,1.37,0.22,0.09,1.07,+
+250,36,Cluj-Napoca, Romania,1.367,0.27,0.09,1.02,-
+251,10,Little Rock, United States,1.361,0.17,0.11,1.08,-
+252,724,TianJin, China,1.356,0.05,0.35,0.96,+
+253,46,Nottingham, United Kingdom,1.355,0.18,0.11,1.07,+
+254,52,Sarasota, United States,1.344,0.19,0.09,1.06,-
+255,99,Lviv, Ukraine,1.259,0.09,0.26,0.91,+
+256,46,Cardiff, United Kingdom,1.259,0.15,0.12,0.99,+
+257,14,Lahore, Pakistan,1.251,0.4,0.18,0.67,+
+258,11,Florence, Italy,1.251,0.19,0.12,0.94,-
+259,95,Honolulu, United States,1.249,0.22,0.04,0.99,-
+260,18,Fort Myers, United States,1.24,0.17,0.09,0.98,+
+261,6,Virginia Beach, United States,1.237,0.2,0.06,0.98,+
+262,43,Winnipeg, Canada,1.231,0.17,0.1,0.96,-
+263,47,Dhaka, Bangladesh,1.219,0.39,0.18,0.65,+
+264,29,Kochi, India,1.218,0.26,0.08,0.88,+
+265,39,Kigali, Rwanda,1.21,0.12,0.27,0.82,-
+266,49,Montpellier, France,1.208,0.19,0.09,0.93,-
+267,46,Reno, United States,1.206,0.18,0.07,0.95,-
+268,16,Cebu City, Philippines,1.203,0.29,0.07,0.84,-
+269,62,Canberra, Australia,1.202,0.18,0.09,0.94,-
+270,43,Florianopolis, Brazil,1.164,0.23,0.12,0.81,-
+271,53,Liverpool, United Kingdom,1.16,0.15,0.09,0.91,-
+272,597,Zhuhai, China,1.143,0.03,0.31,0.81,+
+273,15,Dresden, Germany,1.142,0.16,0.09,0.89,-
+274,59,Des Moines, United States,1.139,0.17,0.07,0.9,-
+275,40,Tartu, Estonia,1.139,0.14,0.11,0.88,-
+276,52,Gold Coast, Australia,1.136,0.2,0.05,0.88,-
+277,71,Memphis, United States,1.133,0.16,0.08,0.9,-
+278,26,Gdańsk, Poland,1.127,0.12,0.15,0.86,+
+279,140,Indore, India,1.112,0.21,0.1,0.8,+
+280,38,Skopje, North Macedonia,1.109,0.07,0.23,0.81,+
+281,70,Accra, Ghana,1.109,0.26,0.15,0.7,+
+282,73,Yerevan, Armenia,1.108,0.2,0.12,0.79,-
+283,18,Wellington, New Zealand,1.093,0.17,0.06,0.86,-
+284,12,Yokneam, Israel,1.089,0.16,0.1,0.82,+
+285,new,Hsinchu, Taiwan,1.087,0.04,0.2,0.85,
+286,7,Karachi, Pakistan,1.084,0.33,0.17,0.58,-
+287,51,Nuremberg, Germany,1.077,0.16,0.08,0.84,-
+288,21,Coimbatore, India,1.058,0.21,0.08,0.77,+
+289,14,Chandigarh, India,1.05,0.21,0.08,0.76,+
+290,667,Qingdao, China,1.028,0.02,0.28,0.73,+
+291,70,Lincoln, United States,1.028,0.11,0.11,0.81,+
+292,43,Bologna, Italy,1.022,0.16,0.09,0.77,-
+293,43,Malaga, Spain,1.009,0.18,0.05,0.78,-
+294,143,Jeddah, Saudi Arabia,1.004,0.23,0.08,0.7,+
+295,54,Darmstadt, Germany,0.995,0.15,0.07,0.77,+
+296,19,Braga, Portugal,0.991,0.15,0.08,0.76,-
+297,22,Cordoba, Argentina,0.989,0.3,0.04,0.66,+
+298,32,Cali, Colombia,0.985,0.25,0.05,0.69,+
+299,21,Seville, Spain,0.975,0.15,0.07,0.75,+
+300,22,Bloomington, United States,0.969,0.07,0.13,0.77,+
+301,35,Knoxville, United States,0.965,0.11,0.09,0.76,-
+302,80,Dover, United States,0.957,0.08,0.12,0.76,+
+303,33,Sheffield, United Kingdom,0.933,0.14,0.06,0.73,-
+304,659,Chaoyang, China,0.919,0.02,0.25,0.65,+
+305,546,Pula, Croatia,0.918,0.01,0.23,0.68,+
+306,60,Southampton, United Kingdom,0.918,0.1,0.1,0.72,-
+307,173,Linz, Austria,0.917,0.09,0.12,0.71,+
+308,91,Worcester, United States,0.906,0.06,0.13,0.72,+
+309,new,Baoding, China,0.894,0.01,0.25,0.63,
+310,16,Bath, United Kingdom,0.881,0.11,0.07,0.69,-
+311,115,Leuven, Belgium,0.866,0.1,0.1,0.67,+
+312,35,Greenville, United States,0.862,0.12,0.06,0.68,+
+313,40,Fayetteville, United States,0.862,0.1,0.08,0.68,-
+314,118,Cork, Ireland,0.853,0.11,0.08,0.66,+
+315,24,Springfield, United States,0.851,0.09,0.08,0.67,-
+316,63,Syracuse, United States,0.848,0.14,0.04,0.67,-
+317,46,Franklin, United States,0.847,0.09,0.09,0.67,+
+318,109,Lund, Sweden,0.841,0.12,0.06,0.67,+
+319,6,Galway, Ireland,0.838,0.1,0.09,0.65,-
+320,15,Norwich, United Kingdom,0.828,0.12,0.06,0.65,-
+321,21,Corvallis, United States,0.821,0.09,0.08,0.65,-
+322,30,Hamilton, Canada,0.815,0.12,0.06,0.64,-
+323,15,Spokane, United States,0.809,0.1,0.07,0.64,-
+324,44,Asheville, United States,0.804,0.12,0.04,0.64,-
+325,11,Anchorage, United States,0.8,0.08,0.09,0.63,-
+326,1,Tampere, Finland,0.79,0.09,0.08,0.62,-
+327,38,Kelowna, Canada,0.783,0.12,0.06,0.61,-
+328,2,Morristown, United States,0.776,0.1,0.07,0.61,-
+329,287,Chemnitz, Germany,0.775,0.04,0.13,0.6,+
+330,30,Guildford, United Kingdom,0.768,0.09,0.07,0.6,+
+331,336,Bakersfield, United States,0.767,0.02,0.14,0.61,+
+332,11,Oulu, Finland,0.767,0.09,0.08,0.6,+
+333,154,San José, Costa Rica,0.738,0.08,0.13,0.52,+
+334,42,Bournemouth, United Kingdom,0.737,0.08,0.07,0.58,+
+335,45,Wichita, United States,0.737,0.11,0.04,0.58,-
+336,41,Munster, Germany,0.732,0.11,0.05,0.57,-
+337,103,Manama, Bahrain,0.732,0.15,0.07,0.52,+
+338,4,Essen, Germany,0.728,0.12,0.04,0.57,-
+339,3,Brasilia, Brazil,0.725,0.18,0.04,0.5,-
+340,151,Aachen, Germany,0.724,0.08,0.09,0.56,+
+341,58,Tunis, Tunisia,0.722,0.19,0.07,0.47,-
+342,488,Lewes, United States,0.719,0.07,0.08,0.57,+
+343,83,Dayton, United States,0.719,0.11,0.04,0.57,-
+344,new,Stevenage, United Kingdom,0.708,0.01,0.14,0.56,
+345,82,Novi Sad, Serbia,0.698,0.1,0.09,0.51,-
+346,35,Fredericton, Canada,0.696,0.09,0.06,0.54,+
+347,25,San Juan, Puerto Rico,0.695,0.2,0.06,0.43,+
+348,32,Annapolis, United States,0.695,0.1,0.04,0.55,-
+349,new,George Town, Malaysia,0.695,0.04,0.13,0.53,
+350,52,Maastricht, The Netherlands,0.693,0.07,0.09,0.53,+
+351,new,Zhengzhou, China,0.691,0.02,0.18,0.49,
+352,8,Beirut, Lebanon,0.689,0.25,0.04,0.4,-
+353,601,Ibadan, Nigeria,0.688,0.02,0.26,0.4,+
+354,223,Odense, Denmark,0.687,0.06,0.09,0.54,+
+355,20,Gdynia, Poland,0.683,0.1,0.07,0.52,-
+356,31,Katowice, Poland,0.681,0.09,0.07,0.52,+
+357,553,Nur-Sultan, Kazakhstan,0.676,0.11,0.09,0.48,+
+358,new,Charlottesville, United States,0.676,0.04,0.1,0.54,
+359,3,Hanover, Germany,0.674,0.08,0.07,0.52,+
+360,75,Tulsa, United States,0.674,0.1,0.04,0.53,-
+361,62,Strasbourg, France,0.67,0.08,0.07,0.52,+
+362,30,Surat, India,0.667,0.13,0.05,0.48,-
+363,77,Marietta, United States,0.666,0.1,0.04,0.53,-
+364,14,Casablanca, Morocco,0.665,0.14,0.06,0.46,+
+365,new,Saint Helier, Jersey,0.665,0.1,0.57,0,
+366,279,Lucerne, Switzerland,0.664,0.06,0.09,0.52,+
+367,23,Trondheim, Norway,0.664,0.09,0.05,0.52,+
+368,21,Bandung, Indonesia,0.638,0.15,0.08,0.41,+
+369,62,Kampala, Uganda,0.634,0.2,0.06,0.37,-
+370,33,Ithaca, United States,0.632,0.08,0.06,0.5,-
+371,40,Savannah, United States,0.631,0.1,0.04,0.5,-
+372,78,Valletta, Malta,0.631,0.13,0.05,0.45,+
+373,111,Winston-Salem, United States,0.631,0.08,0.06,0.5,+
+374,38,Colombo, Sri Lanka,0.627,0.18,0.05,0.41,+
+375,33,Gainesville, United States,0.627,0.07,0.06,0.5,-
+376,81,Stavanger, Norway,0.62,0.06,0.08,0.49,+
+377,71,Campinas, Brazil,0.616,0.12,0.07,0.43,-
+378,586,Ningbo, China,0.615,0.08,0.1,0.44,+
+379,117,Thessaloniki, Greece,0.609,0.12,0.04,0.45,-
+380,15,Turku, Finland,0.596,0.09,0.04,0.47,+
+381,48,New Brunswick, United States,0.593,0.08,0.04,0.47,-
+382,230,Medford, United States,0.589,0.02,0.1,0.47,+
+383,15,Santa Fe, United States,0.586,0.06,0.07,0.46,+
+384,61,Izmir, Turkey,0.583,0.12,0.04,0.42,+
+385,8,Santa Rosa, United States,0.582,0.08,0.04,0.46,-
+386,88,Dortmund, Germany,0.581,0.1,0.03,0.45,+
+387,75,Venice, Italy,0.577,0.07,0.07,0.43,-
+388,new,Jackson, United States,0.575,0.07,0.05,0.46,
+389,new,Quanzhou, China,0.573,0.01,0.16,0.41,
+390,292,Liege, Belgium,0.572,0.07,0.07,0.44,+
+391,23,Timisoara, Romania,0.563,0.11,0.04,0.42,-
+392,25,Huntington, United States,0.557,0.07,0.05,0.44,-
+393,20,Manchester, United States,0.554,0.05,0.06,0.44,-
+394,38,Odessa, Ukraine,0.551,0.1,0.05,0.4,-
+395,50,Groningen, The Netherlands,0.55,0.1,0.03,0.42,-
+396,25,Christchurch, New Zealand,0.55,0.08,0.04,0.43,+
+397,57,Chiang Mai, Thailand,0.55,0.12,0.04,0.39,-
+398,28,San Luis Obispo, United States,0.544,0.06,0.06,0.43,-
+399,127,Quito, Ecuador,0.543,0.13,0.08,0.34,-
+400,34,Novosibirsk, Russia,0.541,0.1,0.04,0.39,-
+401,new,Freiburg, Germany,0.539,0.03,0.09,0.42,
+402,134,Missoula, United States,0.539,0.05,0.07,0.43,+
+403,53,Catania, Italy,0.538,0.09,0.04,0.41,-
+404,7,Enschede, The Netherlands,0.538,0.08,0.04,0.41,-
+405,40,Maribor, Slovenia,0.538,0.07,0.06,0.41,-
+406,113,Thiruvananthapuram, India,0.537,0.09,0.06,0.39,+
+407,11,Tbilisi, Georgia,0.535,0.11,0.04,0.39,-
+408,69,Salzburg, Austria,0.528,0.06,0.06,0.41,-
+409,105,Midland, United States,0.525,0.03,0.08,0.42,+
+410,55,Saskatoon, Canada,0.524,0.05,0.06,0.41,+
+411,18,Livermore, United States,0.521,0.05,0.06,0.41,+
+412,331,Harrisonburg, United States,0.52,0.02,0.09,0.41,+
+413,12,Vadodara, India,0.52,0.11,0.03,0.38,-
+414,21,Nicosia, Cyprus,0.517,0.08,0.06,0.38,-
+415,419,Nashua, United States,0.517,0.03,0.08,0.41,+
+416,8,Uppsala, Sweden,0.513,0.07,0.04,0.41,-
+417,new,Jiaxing, China,0.513,0.02,0.13,0.36,
+418,59,Iowa City, United States,0.511,0.05,0.06,0.4,+
+419,94,West Chester, United States,0.509,0.05,0.06,0.4,+
+420,10,Varna, Bulgaria,0.508,0.08,0.06,0.37,+
+421,5,Portsmouth, United States,0.498,0.05,0.05,0.39,-
+422,16,Frederick, United States,0.496,0.07,0.03,0.39,-
+423,149,Coventry, United Kingdom,0.492,0.05,0.06,0.39,+
+424,15,Westport, United States,0.492,0.06,0.05,0.39,+
+425,11,Lugano, Switzerland,0.492,0.05,0.06,0.38,-
+426,55,Joinville, Brazil,0.489,0.08,0.07,0.34,-
+427,new,Dalian, China,0.486,0.02,0.12,0.34,
+428,87,Kazan, Russia,0.484,0.09,0.04,0.35,-
+429,52,Puebla, Mexico,0.483,0.08,0.06,0.35,+
+430,143,Cheyenne, United States,0.483,0.04,0.06,0.38,+
+431,28,Zaragoza, Spain,0.473,0.07,0.04,0.36,-
+432,120,Davis, United States,0.473,0.03,0.07,0.37,+
+433,11,Nijmegen, The Netherlands,0.471,0.05,0.06,0.36,-
+434,33,Bremen, Germany,0.47,0.06,0.04,0.36,+
+435,20,Limassol, Cyprus,0.466,0.05,0.08,0.34,-
+436,48,Eugene, United States,0.465,0.04,0.05,0.37,-
+437,122,Islamabad, Pakistan,0.464,0.17,0.05,0.25,+
+438,23,Rijeka, Croatia,0.462,0.08,0.04,0.34,+
+439,31,Hobart, Australia,0.461,0.06,0.04,0.36,+
+440,67,Harrisburg, United States,0.458,0.06,0.03,0.36,+
+441,7,Ghaziabad, India,0.456,0.08,0.05,0.33,+
+442,428,Phuket, Thailand,0.456,0.04,0.1,0.32,+
+443,69,Edison, United States,0.455,0.05,0.04,0.36,-
+444,113,Fortaleza, Brazil,0.453,0.08,0.06,0.32,+
+445,new,Rouen, France,0.452,0.03,0.08,0.35,
+446,182,Naples, Italy,0.45,0.06,0.05,0.34,-
+447,13,Concord, United States,0.444,0.04,0.05,0.35,+
+448,91,San Rafael, United States,0.443,0.05,0.04,0.35,-
+449,32,Traverse City, United States,0.442,0.06,0.04,0.35,-
+450,22,Greensboro, United States,0.441,0.04,0.05,0.35,+
+451,105,Bergen, Norway,0.441,0.05,0.04,0.35,+
+452,10,Akron, United States,0.437,0.05,0.04,0.35,+
+453,new,Visakhapatnam, India,0.434,0.09,0.03,0.31,
+454,18,Lucknow, India,0.432,0.09,0.03,0.31,-
+455,132,Baku, Azerbaijan,0.432,0.09,0.04,0.3,-
+456,26,Faridabad, India,0.428,0.07,0.04,0.31,+
+457,39,Kathmandu, Nepal,0.427,0.11,0.05,0.27,+
+458,131,Trento, Italy,0.427,0.07,0.04,0.32,-
+459,58,Ashdod, Israel,0.424,0.06,0.04,0.32,+
+460,30,Vaduz, Liechtenstein,0.423,0.06,0.04,0.33,+
+461,103,Recife, Brazil,0.423,0.08,0.05,0.29,-
+462,42,Lancaster, United States,0.421,0.03,0.06,0.33,+
+463,185,Zapopan, Mexico,0.42,0.08,0.04,0.3,+
+464,new,Newcastle, Australia,0.42,0.06,0.04,0.33,
+465,80,Ostrava, Czechia,0.419,0.05,0.05,0.32,-
+466,12,Abuja, Nigeria,0.419,0.13,0.04,0.24,-
+467,83,Sioux Falls, United States,0.417,0.04,0.05,0.33,-
+468,8,Doha, Qatar,0.417,0.11,0.03,0.27,+
+469,77,Panama City, Panama,0.413,0.08,0.04,0.28,+
+470,53,Regina, Canada,0.412,0.05,0.04,0.32,+
+471,472,Augsburg, Germany,0.412,0.02,0.07,0.32,+
+472,new,Lansing, United States,0.411,0.05,0.04,0.33,
+473,79,Ribeirao Preto, Brazil,0.405,0.09,0.03,0.28,-
+474,20,Eilat, Israel,0.405,0.07,0.03,0.31,+
+475,new,Chian, China,0.404,0.08,0.04,0.29,
+476,7,South Bend, United States,0.403,0.06,0.03,0.32,+
+477,68,Petaluma, United States,0.402,0.04,0.05,0.32,-
+478,84,Milton Keynes, United Kingdom,0.402,0.02,0.06,0.32,+
+479,51,Debrecen, Hungary,0.401,0.05,0.06,0.3,+
+480,28,Kuwait City, Kuwait,0.399,0.09,0.05,0.25,+
+481,260,Brookline, United States,0.398,0.01,0.07,0.32,+
+482,341,Carson City, United States,0.394,0.02,0.06,0.31,+
+483,425,Fuzhou, China,0.391,0.07,0.04,0.28,+
+484,64,Iași, Romania,0.388,0.05,0.05,0.29,-
+485,489,Jinan, China,0.385,0.05,0.06,0.27,+
+486,13,Roswell, United States,0.385,0.05,0.03,0.3,+
+487,139,Michigan City, United States,0.383,0.05,0.03,0.3,-
+488,53,Tirana, Albania,0.38,0.07,0.06,0.26,-
+489,new,Esch an der Alzette, Luxembourg,0.38,0.05,0.05,0.28,
+490,11,Pretoria, South Africa,0.376,0.08,0.04,0.26,+
+491,199,Ulaanbaatar, Mongolia,0.375,0.07,0.05,0.26,+
+492,463,Yangon, Myanmar,0.375,0.11,0.1,0.16,+
+493,87,Cagayan de Oro, Philippines,0.373,0.09,0.03,0.26,+
+494,new,Potsdam, Germany,0.373,0.03,0.05,0.29,
+495,197,Addis Ababa, Ethiopia,0.372,0.18,0.08,0.12,+
+496,44,Baton Rouge, United States,0.372,0.04,0.03,0.29,-
+497,5,Coimbra, Portugal,0.37,0.05,0.04,0.28,+
+498,115,Bethlehem, United States,0.37,0.04,0.04,0.29,-
+499,65,Cagliari, Italy,0.37,0.06,0.03,0.28,-
+500,41,Leicester, United Kingdom,0.367,0.04,0.04,0.29,+
+501,new,Cedar Rapids, United States,0.367,0.05,0.03,0.29,
+502,29,Moncton, Canada,0.366,0.04,0.04,0.29,-
+503,new,London, Canada,0.366,0.05,0.03,0.29,
+504,new,Chatham, United States,0.364,0.02,0.06,0.29,
+505,69,Linkoping, Sweden,0.363,0.03,0.04,0.29,+
+506,78,Aalborg, Denmark,0.361,0.04,0.04,0.28,+
+507,10,Nagpur, India,0.358,0.07,0.03,0.26,-
+508,new,Nazareth, Israel,0.358,0.01,0.08,0.27,
+509,50,Bozeman, United States,0.358,0.04,0.03,0.28,-
+510,new,Taoyuan City, Taiwan,0.357,0.02,0.06,0.28,
+511,202,Genoa, Italy,0.357,0.05,0.04,0.27,+
+512,174,Tehran, Iran,0.356,0.13,0.06,0.16,-
+513,72,Kharkiv, Ukraine,0.355,0.05,0.05,0.26,-
+514,63,Durango, United States,0.353,0.03,0.04,0.28,-
+515,72,Pensacola, United States,0.353,0.04,0.03,0.28,-
+516,85,Mendoza, Argentina,0.353,0.08,0.04,0.23,-
+517,7,Sao Jose dos Campos, Brazil,0.352,0.07,0.04,0.24,-
+518,6,State College, United States,0.349,0.04,0.04,0.28,+
+519,new,Saarbrucken, Germany,0.348,0.03,0.04,0.27,
+520,134,Wollongong, Australia,0.346,0.05,0.03,0.27,-
+521,new,Caesarea, Israel,0.346,0.02,0.06,0.26,
+522,48,Exeter, United Kingdom,0.344,0.03,0.04,0.27,+
+523,new,Peterborough, United Kingdom,0.344,0.04,0.03,0.27,
+524,80,Duluth, United States,0.344,0.04,0.03,0.27,-
+525,25,Derby, United Kingdom,0.343,0.03,0.04,0.27,+
+526,5,Kosice, Slovakia,0.343,0.04,0.04,0.26,-
+527,114,Caracas, Venezuela,0.342,0.15,0.06,0.13,-
+528,121,Leesburg, United States,0.339,0.03,0.04,0.27,-
+529,125,Champaign, United States,0.339,0.04,0.03,0.27,-
+530,1,Palma de Mallorca, Spain,0.338,0.04,0.04,0.26,-
+531,75,Limerick, Ireland,0.336,0.05,0.03,0.26,+
+532,177,Chihuahua, Mexico,0.336,0.07,0.02,0.24,-
+533,188,Jena, Germany,0.333,0.04,0.03,0.26,+
+534,175,College Station, United States,0.332,0.04,0.03,0.26,+
+535,251,Chisinau, Moldova,0.33,0.07,0.03,0.23,-
+536,111,Danville, United States,0.327,0.02,0.05,0.26,-
+537,136,Annecy, France,0.326,0.03,0.04,0.25,+
+538,29,Sherbrooke, Canada,0.325,0.03,0.04,0.25,+
+539,new,Lebanon, United States,0.324,0.01,0.05,0.26,
+540,new,Sheridan, United States,0.324,0.02,0.05,0.26,
+541,36,Verona, Italy,0.322,0.04,0.04,0.24,-
+542,94,Vasteras, Sweden,0.32,0.04,0.03,0.25,+
+543,91,Hasselt, Belgium,0.319,0.04,0.04,0.24,+
+544,19,Bentonville, United States,0.319,0.03,0.04,0.25,-
+545,2,Northampton, United Kingdom,0.319,0.04,0.03,0.25,+
+546,427,Hefei, China,0.318,0.05,0.04,0.23,+
+547,294,Ames, United States,0.317,0.03,0.04,0.25,+
+548,26,Murcia, Spain,0.316,0.04,0.03,0.24,-
+549,383,Middletown, United States,0.316,0.02,0.05,0.25,+
+550,new,Cheltenham, United Kingdom,0.316,0.04,0.03,0.25,
+551,new,Chester, United Kingdom,0.313,0.02,0.05,0.25,
+552,164,Danbury, United States,0.313,0.01,0.05,0.25,+
+553,new,Wuxi, China,0.313,0.05,0.04,0.22,
+554,154,Agadir, Morocco,0.313,0.08,0.02,0.22,-
+555,99,San Luis Potosi, Mexico,0.312,0.07,0.02,0.22,-
+556,128,Blacksburg, United States,0.312,0.03,0.04,0.25,-
+557,new,Daejeon, South Korea,0.311,0.02,0.05,0.24,
+558,193,Barrie, Canada,0.31,0.04,0.03,0.24,+
+559,34,Arnhem, The Netherlands,0.309,0.03,0.04,0.24,+
+560,163,Aberdeen, United Kingdom,0.309,0.02,0.04,0.24,+
+561,97,Lakeland, United States,0.307,0.02,0.04,0.24,-
+562,56,Szczecin, Poland,0.306,0.04,0.03,0.23,-
+563,new,St. John's, Canada,0.305,0.02,0.04,0.24,
+564,new,Lublin, Poland,0.304,0.04,0.03,0.23,
+565,30,Madurai, India,0.303,0.05,0.04,0.22,-
+566,new,Vijayawada, India,0.302,0.06,0.03,0.22,
+567,20,Mogadishu, Somalia,0.301,0.14,0.06,0.09,+
+568,new,Durban, South Africa,0.301,0.06,0.03,0.21,
+569,162,Treviso, Italy,0.3,0.05,0.03,0.23,+
+570,new,Bielefeld, Germany,0.299,0.03,0.04,0.23,
+571,71,Suwanee, United States,0.298,0.04,0.02,0.24,-
+572,125,Helsingborg, Sweden,0.298,0.04,0.02,0.24,-
+573,new,Neuchatel, Switzerland,0.298,0.03,0.04,0.23,
+574,new,Regensburg, Germany,0.297,0.02,0.04,0.23,
+575,new,Yantai, China,0.297,0.01,0.08,0.21,
+576,78,Marlborough, United States,0.296,0.02,0.04,0.23,+
+577,27,Novato, United States,0.292,0.03,0.03,0.23,+
+578,80,Grand Junction, United States,0.291,0.02,0.04,0.23,+
+579,99,Brentwood, United States,0.291,0.02,0.04,0.23,+
+580,227,Santo Domingo, Dominican Republic,0.29,0.08,0.02,0.18,-
+581,96,Newport News, United States,0.289,0.04,0.02,0.23,-
+582,116,Uberlandia, Brazil,0.288,0.06,0.03,0.2,-
+583,new,Aveiro, Portugal,0.287,0.03,0.04,0.22,
+584,18,Breda, The Netherlands,0.287,0.02,0.05,0.22,-
+585,211,Manassas, United States,0.287,0.02,0.04,0.23,+
+586,25,Murrieta, United States,0.287,0.03,0.03,0.23,-
+587,116,Laguna Niguel, United States,0.286,0.02,0.04,0.23,+
+588,190,Wurzburg, Germany,0.286,0.02,0.04,0.22,+
+589,117,Fargo, United States,0.285,0.02,0.04,0.23,+
+590,180,Split, Croatia,0.284,0.04,0.03,0.21,-
+591,122,Napa, United States,0.284,0.03,0.03,0.23,-
+592,4,Yverdon-les-Bains, Switzerland,0.282,0.02,0.04,0.22,+
+593,84,Paphos, Cyprus,0.28,0.04,0.04,0.21,-
+594,266,Tallahassee, United States,0.28,0.03,0.03,0.22,-
+595,65,Tyler, United States,0.278,0.03,0.03,0.22,+
+596,12,Swansea, United Kingdom,0.277,0.03,0.03,0.22,+
+597,31,Kolding, Denmark,0.277,0.01,0.05,0.22,+
+598,244,Thunder Bay, Canada,0.276,0.03,0.03,0.21,+
+599,new,Preston, United Kingdom,0.274,0.03,0.03,0.22,
+600,69,Truckee, United States,0.273,0.02,0.03,0.22,-
+601,29,Udaipur, India,0.273,0.04,0.04,0.2,+
+602,169,Monterey, United States,0.271,0.02,0.03,0.21,-
+603,165,Myrtle Beach, United States,0.271,0.02,0.03,0.21,-
+604,158,Green Bay, United States,0.27,0.03,0.03,0.21,-
+605,29,Innsbruck, Austria,0.27,0.03,0.03,0.21,-
+606,257,Kanpur, India,0.268,0.05,0.03,0.19,+
+607,new,Donostia-San Sebastian, Spain,0.268,0.03,0.03,0.21,
+608,153,Asuncion, Paraguay,0.268,0.07,0.03,0.17,-
+609,222,Bhopal, India,0.267,0.05,0.03,0.19,+
+610,289,Kaliningrad, Russia,0.264,0.03,0.04,0.19,+
+611,new,Foshan, China,0.264,0.02,0.05,0.19,
+612,62,Erie, United States,0.262,0.03,0.03,0.21,+
+613,202,Abidjan, Ivory Coast,0.262,0.05,0.04,0.16,+
+614,new,Gijón, Spain,0.26,0.02,0.04,0.2,
+615,new,Girona, Spain,0.259,0.03,0.03,0.2,
+616,77,Goiania, Brazil,0.259,0.06,0.02,0.18,-
+617,85,Portsmouth, United Kingdom,0.258,0.03,0.02,0.2,-
+618,23,Pontevedra, Spain,0.257,0.03,0.03,0.2,-
+619,new,Astoria, United States,0.257,0.02,0.04,0.2,
+620,new,Phnom Penh, Cambodia,0.256,0.07,0.06,0.13,
+621,29,Guatemala City, Guatemala,0.255,0.06,0.03,0.17,+
+622,new,York, United Kingdom,0.253,0.03,0.03,0.2,
+623,103,Almaty, Kazakhstan,0.253,0.03,0.04,0.18,-
+624,38,Praia, Cape Verde,0.253,0.1,0.02,0.13,+
+625,97,Rajkot, India,0.25,0.04,0.03,0.18,+
+626,new,Truro, United Kingdom,0.25,0.03,0.03,0.2,
+627,new,Modiin-Maccabim-Reut, Israel,0.25,0.02,0.04,0.19,
+628,37,Palermo, Italy,0.249,0.03,0.03,0.19,+
+629,new,Charlottetown, Canada,0.248,0.03,0.03,0.19,
+630,new,Basingstoke, United Kingdom,0.248,0.02,0.03,0.2,
+631,41,Wiesbaden, Germany,0.248,0.03,0.02,0.19,+
+632,154,Haarlem, The Netherlands,0.247,0.03,0.02,0.19,-
+633,184,Sarajevo, Bosnia and Herzegovina,0.247,0.05,0.03,0.16,-
+634,new,Magdeburg, Germany,0.246,0.02,0.04,0.19,
+635,new,Metz, France,0.246,0.01,0.04,0.19,
+636,116,Brantford, Canada,0.245,0.03,0.03,0.19,+
+637,111,Chelyabinsk, Russia,0.245,0.03,0.03,0.18,-
+638,119,Andover, United Kingdom,0.244,0.02,0.04,0.19,+
+639,128,Mobile, United States,0.244,0.03,0.02,0.19,-
+640,143,Newport, United States,0.243,0.02,0.04,0.19,+
+641,158,Scranton, United States,0.243,0.02,0.03,0.19,+
+642,69,Schenectady, United States,0.243,0.02,0.03,0.19,+
+643,new,'s-Hertogenbosch, The Netherlands,0.241,0.02,0.04,0.18,
+644,176,Allentown, United States,0.241,0.02,0.03,0.19,-
+645,229,Brunswick, United States,0.24,0.02,0.03,0.19,+
+646,41,Panama City, United States,0.24,0.02,0.03,0.19,+
+647,1,Pisa, Italy,0.239,0.02,0.04,0.18,-
+648,90,Vitoria, Brazil,0.239,0.06,0.02,0.17,-
+649,38,Antalya, Turkey,0.239,0.04,0.02,0.17,-
+650,25,Alicante, Spain,0.238,0.03,0.03,0.18,-
+651,69,Brescia, Italy,0.237,0.02,0.04,0.18,-
+652,125,Saint John, Canada,0.237,0.03,0.02,0.18,-
+653,35,Amersfoort, The Netherlands,0.237,0.03,0.02,0.18,+
+654,33,Cancun, Mexico,0.237,0.03,0.03,0.17,-
+655,131,Szeged, Hungary,0.237,0.03,0.03,0.18,+
+656,new,Newport, United Kingdom,0.236,0.02,0.03,0.19,
+657,new,Loughborough, United Kingdom,0.236,0.02,0.03,0.19,
+658,49,Corpus Christi, United States,0.235,0.01,0.04,0.19,+
+659,235,Chico, United States,0.235,0.03,0.02,0.19,-
+660,126,Canton, United States,0.232,0.02,0.03,0.18,-
+661,223,Redding, United States,0.232,0.02,0.03,0.18,+
+662,55,Granada, Spain,0.231,0.03,0.03,0.18,+
+663,148,Lodz, Poland,0.231,0.03,0.03,0.18,+
+664,76,Jodhpur, India,0.23,0.04,0.03,0.17,-
+665,65,Modena, Italy,0.229,0.02,0.03,0.17,-
+666,35,Bhubaneswar, India,0.227,0.03,0.04,0.16,-
+667,118,Waterloo, Belgium,0.227,0.02,0.03,0.17,-
+668,21,Yogyakarta, Indonesia,0.225,0.05,0.03,0.14,-
+669,6,Whitewater, United States,0.225,0.03,0.02,0.18,-
+670,105,Salvador, Brazil,0.224,0.03,0.04,0.16,+
+671,88,Windsor, Canada,0.223,0.02,0.03,0.17,-
+672,138,Jyvaskyla, Finland,0.221,0.02,0.02,0.17,+
+673,184,Temecula, United States,0.221,0.03,0.02,0.17,-
+674,4,Kalamazoo, United States,0.221,0.01,0.04,0.17,-
+675,85,Bergamo, Italy,0.221,0.03,0.03,0.17,-
+676,42,Jonkoping, Sweden,0.22,0.02,0.03,0.17,+
+677,272,Tomsk, Russia,0.22,0.02,0.04,0.16,+
+678,266,Kiel, Germany,0.22,0.01,0.04,0.17,+
+679,257,Poughkeepsie, United States,0.219,0.01,0.04,0.17,+
+680,138,Yekaterinburg, Russia,0.218,0.03,0.03,0.16,-
+681,116,Bradford, United Kingdom,0.218,0.02,0.03,0.17,-
+682,56,Hermosillo, Mexico,0.218,0.03,0.03,0.16,-
+683,125,Udine, Italy,0.218,0.03,0.02,0.16,+
+684,new,Gilching, Germany,0.217,0.01,0.04,0.17,
+685,9,Kingston, Jamaica,0.217,0.04,0.03,0.15,-
+686,105,Appleton, United States,0.216,0.02,0.03,0.17,-
+687,234,Viña del Mar, Chile,0.216,0.03,0.03,0.16,-
+688,55,Sonoma, United States,0.215,0.02,0.03,0.17,-
+689,47,Maceio, Brazil,0.215,0.03,0.04,0.15,+
+690,new,Athens, United States,0.214,0.02,0.03,0.17,
+691,27,Issaquah, United States,0.214,0.02,0.03,0.17,-
+692,185,Idaho Falls, United States,0.214,0.02,0.03,0.17,+
+693,new,Holmdel, United States,0.214,0.02,0.03,0.17,
+694,53,Ocala, United States,0.214,0.02,0.02,0.17,+
+695,new,Mecca, Saudi Arabia,0.214,0.03,0.03,0.15,
+696,86,Hilversum, The Netherlands,0.213,0.02,0.03,0.16,+
+697,new,Hiroshima, Japan,0.213,0.02,0.03,0.16,
+698,new,Fulton, United States,0.213,0.01,0.03,0.17,
+699,67,Topeka, United States,0.212,0.02,0.03,0.17,-
+700,68,Klagenfurt am Wörthersee, Austria,0.212,0.02,0.03,0.17,+
+701,151,Aalst, Belgium,0.212,0.02,0.03,0.16,+
+702,new,Joplin, United States,0.211,0.01,0.03,0.17,
+703,10,Toledo, United States,0.211,0.02,0.02,0.17,-
+704,184,Stockton, United States,0.21,0.02,0.03,0.17,+
+705,130,Palm Springs, United States,0.21,0.01,0.03,0.17,-
+706,186,Brasov, Romania,0.21,0.03,0.03,0.16,+
+707,31,Funchal, Portugal,0.21,0.03,0.02,0.16,+
+708,122,Marbella, Spain,0.209,0.03,0.02,0.16,-
+709,new,New Providence, United States,0.208,0.01,0.03,0.17,
+710,91,Pescara, Italy,0.208,0.03,0.02,0.16,-
+711,new,Raipur, India,0.206,0.03,0.03,0.15,
+712,75,A Coruna, Spain,0.204,0.02,0.03,0.16,-
+713,new,Baoshan, China,0.204,0.03,0.03,0.14,
+714,new,Queenstown, New Zealand,0.204,0.02,0.03,0.16,
+715,72,Oviedo, Spain,0.203,0.02,0.03,0.16,+
+716,new,Joensuu, Finland,0.203,0.02,0.03,0.16,
+717,205,Fort Wayne, United States,0.202,0.02,0.02,0.16,-
+718,24,Slough, United Kingdom,0.202,0.01,0.03,0.16,-
+719,224,Reading, United States,0.202,0.03,0.02,0.16,-
+720,141,El Paso, United States,0.202,0.03,0.02,0.16,-
+721,223,Lubbock, United States,0.202,0.02,0.02,0.16,-
+722,27,Sharjah, United Arab Emirates,0.202,0.03,0.03,0.15,+
+723,155,Middlesbrough, United Kingdom,0.202,0.03,0.02,0.16,-
+724,13,Dar es Salaam, Tanzania,0.2,0.07,0.03,0.1,+
+725,124,Modesto, United States,0.2,0.02,0.02,0.16,-
+726,new,Vitoria, Spain,0.2,0.01,0.03,0.15,
+727,38,Lawrence, United States,0.2,0.01,0.03,0.16,-
+728,121,The Woodlands, United States,0.2,0.02,0.02,0.16,-
+729,138,Le Bourget-du-Lac, France,0.199,0.01,0.03,0.15,+
+730,74,Samara, Russia,0.199,0.03,0.03,0.14,+
+731,27,Ede, The Netherlands,0.199,0.02,0.02,0.15,+
+732,124,Woodbridge, United Kingdom,0.197,0.01,0.03,0.15,+
+733,new,Ridgefield, United States,0.197,0.01,0.03,0.16,
+734,22,Cuyahoga Falls, United States,0.196,0.02,0.02,0.16,+
+735,new,Frome, United Kingdom,0.196,0.02,0.02,0.15,
+736,145,Peoria, United States,0.195,0.01,0.03,0.15,+
+737,25,Ancona, Italy,0.194,0.03,0.02,0.15,-
+738,190,Las Cruces, United States,0.194,0.01,0.03,0.15,+
+739,42,Dehradun, India,0.194,0.03,0.03,0.14,-
+740,new,Patna, India,0.194,0.02,0.03,0.14,
+741,new,Haikou, China,0.194,0.04,0.02,0.14,
+742,300,Huntsville, United States,0.194,0.02,0.02,0.15,-
+743,149,Valparaiso, Chile,0.194,0.03,0.03,0.14,-
+744,19,Darwin, Australia,0.193,0.01,0.03,0.15,-
+745,new,Excelsior, United States,0.193,0.01,0.03,0.15,
+746,new,Reims, France,0.192,0.02,0.02,0.15,
+747,134,Siena, Italy,0.191,0.02,0.03,0.14,-
+748,new,Johor Bahru, Malaysia,0.191,0.02,0.03,0.14,
+749,new,Tainan City, Taiwan,0.191,0.03,0.01,0.15,
+750,new,Varanasi, India,0.191,0.01,0.04,0.14,
+751,92,Bolzano, Italy,0.19,0.02,0.03,0.14,+
+752,new,Saint Malo, France,0.19,0.01,0.03,0.15,
+753,new,Sursee, Switzerland,0.19,0.01,0.03,0.15,
+754,114,Shreveport, United States,0.189,0.02,0.02,0.15,-
+755,new,Gwangju, South Korea,0.189,0.01,0.03,0.14,
+756,new,Mombasa, Kenya,0.189,0.04,0.02,0.14,
+757,122,Steamboat Springs, United States,0.188,0.02,0.02,0.15,-
+758,122,Oxford, United States,0.188,0.01,0.03,0.15,+
+759,24,Surabaya, Indonesia,0.188,0.04,0.03,0.12,-
+760,new,Grand Forks, United States,0.188,0.02,0.02,0.15,
+761,78,Milton, Canada,0.187,0.01,0.03,0.15,-
+762,new,Padua, Italy,0.186,0.01,0.03,0.14,
+763,new,Soest, The Netherlands,0.186,0.02,0.03,0.14,
+764,new,Changzhou, China,0.186,0.01,0.04,0.13,
+765,147,Larnaca, Cyprus,0.186,0.02,0.03,0.14,+
+766,new,Amherst, United States,0.185,0.02,0.02,0.15,
+767,28,Billings, United States,0.185,0.02,0.02,0.15,-
+768,102,Sapporo, Japan,0.184,0.03,0.02,0.14,-
+769,236,Zwolle, The Netherlands,0.184,0.03,0.02,0.14,-
+770,new,Halmstad, Sweden,0.183,0.01,0.03,0.14,
+771,166,Flint, United States,0.183,0.02,0.02,0.14,-
+772,61,Goa, India,0.182,0.02,0.03,0.13,+
+773,new,Besancon, France,0.182,0.01,0.03,0.14,
+774,89,Janesville, United States,0.182,0.01,0.03,0.14,-
+775,146,Potsdam, United States,0.182,0.01,0.03,0.14,-
+776,157,Mooresville, United States,0.182,0.01,0.03,0.14,+
+777,7,Plovdiv, Bulgaria,0.181,0.03,0.02,0.13,+
+778,new,Maidenhead, United Kingdom,0.181,0.02,0.02,0.14,
+779,new,Morro Bay, United States,0.181,0.01,0.03,0.14,
+780,156,Castellon de la Plana, Spain,0.181,0.02,0.02,0.14,-
+781,new,Pecs, Hungary,0.18,0.02,0.03,0.13,
+782,new,Rostock, Germany,0.18,0.02,0.02,0.14,
+783,186,Brest, France,0.18,0.01,0.03,0.14,-
+784,137,Atlantic City, United States,0.18,0.01,0.03,0.14,+
+785,new,Willemstad, The Netherlands,0.18,0.02,0.02,0.14,
+786,new,Davao City, Philippines,0.18,0.03,0.02,0.13,
+787,63,Ternopil, Ukraine,0.179,0.02,0.03,0.13,-
+788,new,Parsippany-Troy Hills, United States,0.179,0.01,0.03,0.14,
+789,39,Cesena, Italy,0.179,0.02,0.03,0.14,-
+790,new,Fribourg, Switzerland,0.178,0.02,0.02,0.14,
+791,105,Santiago de Compostela, Spain,0.178,0.01,0.03,0.14,+
+792,145,Sudbury, United States,0.178,0.01,0.03,0.14,+
+793,new,Alexander, United States,0.177,0.01,0.03,0.14,
+794,167,Santander, Spain,0.177,0.02,0.02,0.14,-
+795,97,Juiz de Fora, Brazil,0.177,0.02,0.03,0.12,-
+796,new,Dundee, United Kingdom,0.177,0.01,0.03,0.14,
+797,new,Klaipeda, Lithuania,0.176,0.02,0.02,0.14,
+798,new,Stratford, Canada,0.175,0.02,0.02,0.14,
+799,40,Bursa, Turkey,0.175,0.02,0.03,0.13,+
+800,159,San Salvador, El Salvador,0.175,0.03,0.03,0.12,+
+801,new,Roanoke, United States,0.175,0.01,0.02,0.14,
+802,new,Andorra la Vella, Andorra,0.174,0.02,0.02,0.13,
+803,new,Rostov on Don, Russia,0.174,0.02,0.03,0.13,
+804,190,Bellingham, United States,0.173,0.02,0.02,0.14,-
+805,new,Augusta, United States,0.173,0.02,0.02,0.14,
+806,269,Palm Desert, United States,0.173,0.02,0.02,0.14,-
+807,136,Texas City, United States,0.173,0.02,0.02,0.14,-
+808,20,Pamplona, Spain,0.173,0.02,0.02,0.13,-
+809,165,Ulyanovsk, Russia,0.173,0.01,0.03,0.13,-
+810,new,Biarritz, France,0.173,0.01,0.03,0.13,
+811,new,Santiago de Queretaro, Mexico,0.172,0.03,0.02,0.12,
+812,80,Zadar, Croatia,0.172,0.02,0.03,0.13,-
+813,49,Blackpool, United Kingdom,0.172,0.01,0.03,0.14,+
+814,59,Binghamton, United States,0.172,0.01,0.02,0.14,+
+815,107,Leon, Mexico,0.171,0.03,0.02,0.12,-
+816,new,Gaziantep, Turkey,0.171,0.02,0.03,0.13,
+817,46,Verona, United States,0.17,0.01,0.02,0.14,-
+818,275,Tijuana, Mexico,0.17,0.03,0.02,0.12,-
+819,142,Osijek, Croatia,0.17,0.02,0.03,0.13,+
+820,new,Carmel-by-the-Sea, United States,0.169,0.01,0.02,0.13,
+821,57,Monroe, United States,0.169,0.01,0.02,0.13,+
+822,new,Shijiazhuang, China,0.168,0.02,0.03,0.12,
+823,159,Semarang, Indonesia,0.168,0.03,0.03,0.11,+
+824,new,Montgomery, United States,0.168,0.01,0.02,0.13,
+825,new,Caxias do Sul, Brazil,0.167,0.02,0.03,0.12,
+826,new,Herzogenrath, Germany,0.166,0.01,0.03,0.13,
+827,20,Dakar, Senegal,0.166,0.05,0.02,0.1,-
+828,117,Oldenburg, Germany,0.166,0.01,0.03,0.13,+
+829,new,Hennigsdorf, Germany,0.165,0.01,0.03,0.13,
+830,new,Windsor, United Kingdom,0.165,0.01,0.02,0.13,
+831,98,Dordrecht, The Netherlands,0.165,0.02,0.02,0.13,-
+832,new,Biel Bienne, Switzerland,0.164,0.02,0.02,0.13,
+833,new,Pattaya City, Thailand,0.163,0.02,0.03,0.12,
+834,148,Auburn, United States,0.163,0.01,0.02,0.13,-
+835,5,Perugia, Italy,0.163,0.01,0.03,0.12,+
+836,213,Barranquilla, Colombia,0.162,0.03,0.02,0.11,-
+837,new,Konstanz, Germany,0.162,0.02,0.02,0.13,
+838,108,Perm, Russia,0.162,0.02,0.03,0.12,-
+839,144,Novo mesto, Slovenia,0.162,0.01,0.03,0.12,-
+840,new,Incheon, South Korea,0.161,0.02,0.02,0.12,
+841,81,Orono, United States,0.161,0.01,0.02,0.13,-
+842,new,Changchun, China,0.161,0.02,0.03,0.11,
+843,151,Gibraltar, Gibraltar,0.161,0.07,0.09,0,+
+844,new,Plzen, Czechia,0.161,0.01,0.03,0.12,
+845,91,Waterford, Ireland,0.16,0.02,0.02,0.12,-
+846,140,Sibiu, Romania,0.16,0.01,0.03,0.12,+
+847,3,Mechelen, Belgium,0.16,0.01,0.02,0.12,+
+848,68,Worcester, United Kingdom,0.159,0.01,0.02,0.13,-
+849,new,Shenyang, China,0.159,0.03,0.02,0.11,
+850,10,Rzeszow, Poland,0.158,0.02,0.02,0.12,+
+851,new,Bangor, United States,0.158,0.02,0.02,0.13,
+852,97,Heerlen, The Netherlands,0.158,0.01,0.03,0.12,-
+853,8,Rabat, Morocco,0.158,0.02,0.03,0.11,-
+854,65,Tarragona, Spain,0.156,0.02,0.02,0.12,-
+855,129,Fermo, Italy,0.155,0.02,0.02,0.12,-
+856,new,Windhoek, Namibia,0.155,0.04,0.02,0.09,
+857,new,Syracuse, Italy,0.154,0.02,0.02,0.12,
+858,10,Trabzon, Turkey,0.153,0.02,0.02,0.11,-
+859,44,Zielona Gora, Poland,0.153,0.01,0.03,0.12,+
+860,new,Arcata, United States,0.153,0.01,0.02,0.12,
+861,new,Great Falls, United States,0.153,0.01,0.02,0.12,
+862,101,Shelton, United States,0.153,0.01,0.02,0.12,-
+863,246,Wilsonville, United States,0.152,0.01,0.02,0.12,-
+864,97,Conroe, United States,0.152,0.01,0.02,0.12,-
+865,new,Farnborough, United Kingdom,0.152,0.01,0.02,0.12,
+866,175,Winchester, United States,0.152,0.01,0.02,0.12,-
+867,new,Arezzo, Italy,0.151,0.01,0.03,0.11,
+868,290,Tilburg, The Netherlands,0.151,0.01,0.02,0.12,-
+869,91,Medan, Indonesia,0.15,0.03,0.03,0.1,+
+870,new,Taichung City, Taiwan,0.15,0.02,0.01,0.12,
+871,new,Sunderland, United Kingdom,0.15,0.01,0.02,0.12,
+872,95,Rosario, Argentina,0.15,0.03,0.02,0.1,-
+873,new,Bedford, United Kingdom,0.15,0.01,0.02,0.12,
+874,134,Bowling Green, United States,0.15,0.01,0.02,0.12,-
+875,18,Huddersfield, United Kingdom,0.15,0.01,0.02,0.12,-
+876,new,Hooksett, United States,0.15,0.01,0.02,0.12,
+877,72,Lusaka, Zambia,0.149,0.04,0.02,0.1,-
+878,72,Londrina, Brazil,0.148,0.02,0.02,0.1,-
+879,new,Kunming, China,0.148,0.02,0.03,0.1,
+880,new,Jamshedpur, India,0.148,0.02,0.02,0.11,
+881,new,Herning, Denmark,0.148,0.01,0.02,0.12,
+882,84,Tashkent, Uzbekistan,0.148,0.02,0.03,0.1,+
+883,80,Dnipro, Ukraine,0.147,0.01,0.03,0.11,-
+884,new,Parma, Italy,0.146,0.02,0.02,0.11,
+885,new,Aurangabad, India,0.145,0.01,0.03,0.1,
+886,40,Puerto del Rosario, Spain,0.145,0.02,0.02,0.11,-
+887,60,Craiova, Romania,0.144,0.01,0.03,0.11,+
+888,39,Duisburg, Germany,0.144,0.01,0.02,0.11,-
+889,new,Blumenau, Brazil,0.144,0.02,0.03,0.1,
+890,new,Białystok, Poland,0.144,0.01,0.02,0.11,
+891,new,Ajaccio, France,0.144,0.01,0.02,0.11,
+892,79,Celaya, Mexico,0.144,0.01,0.03,0.1,+
+893,new,Bielsko-Biala, Poland,0.143,0.01,0.02,0.11,
+894,new,Wesseling, Germany,0.143,0.01,0.02,0.11,
+895,6,Mantua, Italy,0.143,0.01,0.02,0.11,+
+896,46,Peterborough, Canada,0.142,0.01,0.02,0.11,+
+897,277,Ashland, United States,0.142,0.01,0.02,0.11,-
+898,new,Sao Leopoldo, Brazil,0.142,0.01,0.03,0.1,
+899,17,Volgograd, Russia,0.141,0.02,0.02,0.1,+
+900,new,Logrono, Spain,0.141,0.02,0.02,0.11,
+901,35,Tours, France,0.14,0.01,0.02,0.11,-
+902,81,Ioannina, Greece,0.137,0.01,0.03,0.1,+
+903,111,Shikarpur, India,0.137,0.02,0.02,0.1,-
+904,new,Kaohsiung City, Taiwan,0.137,0.02,0.01,0.11,
+905,new,Nizhny Novgorod, Russia,0.136,0.01,0.03,0.1,
+906,6,Port Harcourt, Nigeria,0.135,0.04,0.02,0.08,-
+907,84,Puri, India,0.135,0.01,0.03,0.1,+
+908,96,Maringá, Brazil,0.135,0.01,0.03,0.09,-
+909,new,Tsukuba, Japan,0.134,0.01,0.02,0.1,
+910,131,Kassel, Germany,0.134,0.01,0.02,0.1,-
+911,new,Limoges, France,0.133,0.01,0.02,0.1,
+912,new,Udupi, India,0.131,0.01,0.03,0.1,
+913,123,Concepcion, Chile,0.131,0.02,0.02,0.1,-
+914,new,Nahariyya, Israel,0.131,0.01,0.02,0.1,
+915,47,Dundalk, Ireland,0.131,0.01,0.02,0.1,-
+916,new,Senai, Malaysia,0.131,0.01,0.02,0.1,
+917,new,Reggio Emilia, Italy,0.129,0.01,0.02,0.1,
+918,426,Merida, Mexico,0.128,0.02,0.02,0.09,-
+919,128,Rovereto, Italy,0.128,0.01,0.02,0.1,-
+920,3,Nashik, India,0.127,0.01,0.02,0.09,-
+921,9,Lynchburg, United States,0.126,0.01,0.02,0.1,+
+922,new,Hargeisa, Somalia,0.126,0.06,0.03,0.04,
+923,114,Victoria, Seychelles,0.126,0.02,0.03,0.08,-
+924,new,San Ġiljan, Malta,0.125,0.01,0.03,0.09,
+925,225,Lichfield, United Kingdom,0.125,0.01,0.02,0.1,-
+926,162,Gulfport, United States,0.125,0.01,0.02,0.1,-
+927,1,Hartland, United States,0.125,0.01,0.02,0.1,-
+928,90,Salinas, United States,0.125,0.01,0.02,0.1,-
+929,38,Westborough, United States,0.125,0.01,0.02,0.1,-
+930,new,Belem, Brazil,0.124,0.02,0.02,0.09,
+931,44,Nanning, China,0.124,0.02,0.02,0.09,+
+932,new,Medina, Saudi Arabia,0.123,0.01,0.03,0.09,
+933,new,Agra, India,0.123,0.01,0.02,0.09,
+934,28,Harare, Zimbabwe,0.123,0.04,0.03,0.06,+
+935,182,Wokingham, United Kingdom,0.123,0.01,0.02,0.1,-
+936,65,Campo Grande, Brazil,0.122,0.01,0.03,0.09,-
+937,238,Hirtshals, Denmark,0.121,0.01,0.02,0.1,-
+938,10,Bauru, Brazil,0.121,0.01,0.03,0.08,+
+939,new,Nanchang, China,0.12,0.01,0.02,0.09,
+940,174,Denpasar, Indonesia,0.12,0.03,0.02,0.08,-
+941,80,Rhodes, Greece,0.119,0.01,0.02,0.09,-
+942,194,Joao Pessoa, Brazil,0.119,0.02,0.02,0.08,-
+943,45,Manaus, Brazil,0.119,0.02,0.02,0.08,-
+944,new,Baguio, Philippines,0.118,0.02,0.02,0.08,
+945,44,Kayseri, Turkey,0.118,0.01,0.02,0.09,+
+946,51,Taganrog, Russia,0.117,0.01,0.02,0.09,-
+947,new,Omsk, Russia,0.117,0.01,0.02,0.09,
+948,new,Eskişehir, Turkey,0.116,0.01,0.02,0.09,
+949,20,Natal, Brazil,0.116,0.01,0.02,0.08,+
+950,3,Colima, Mexico,0.112,0.01,0.02,0.08,+
+951,new,Guayaquil, Ecuador,0.109,0.02,0.02,0.07,
+952,new,Luanda, Angola,0.109,0.03,0.03,0.05,
+953,new,Sandakan, Malaysia,0.108,0.01,0.02,0.08,
+954,new,Ragusa, Italy,0.106,0.01,0.02,0.08,
+955,new,Vila Velha, Brazil,0.105,0.01,0.02,0.07,
+956,21,Rawalpindi, Pakistan,0.105,0.03,0.02,0.06,+
+957,30,Torreon, Mexico,0.104,0.01,0.02,0.07,+
+958,61,Montego Bay, Jamaica,0.103,0.01,0.02,0.07,-
+959,new,Székesfehérvár, Hungary,0.102,0.01,0.02,0.08,
+960,38,Faisalabad, Pakistan,0.1,0.02,0.03,0.05,+
+961,new,Antananarivo, Madagascar,0.098,0.04,0.02,0.04,
+962,18,Managua, Nicaragua,0.097,0.02,0.03,0.05,+
+963,45,Allahabad, India,0.094,0.01,0.02,0.07,-
+964,45,Nizamabad, India,0.094,0.01,0.02,0.07,-
+965,28,Ramallah, Palestine,0.093,0.03,0.02,0.05,+
+966,6,Reynosa, Mexico,0.092,0.01,0.02,0.07,+
+967,new,Harbin, China,0.09,0.01,0.02,0.06,
+968,new,Taiyuan, China,0.089,0.01,0.02,0.06,
+969,63,Douala, Cameroon,0.089,0.03,0.02,0.04,-
+970,new,Bamako, Mali,0.087,0.03,0.03,0.04,
+971,107,Santos, Brazil,0.086,0.01,0.02,0.06,-
+972,6,San Pedro Sula, Honduras,0.085,0.02,0.02,0.05,+
+973,17,Gaborone, Botswana,0.085,0.01,0.02,0.05,-
+974,22,Alexandria, Egypt,0.085,0.01,0.03,0.05,+
+975,new,Sunchales, Argentina,0.082,0.01,0.02,0.06,
+976,71,Belize City, Belize,0.082,0.01,0.03,0.04,-
+977,new,Khulna, Bangladesh,0.08,0.01,0.03,0.04,
+978,new,Enugu, Nigeria,0.079,0.01,0.02,0.05,
+979,9,Benin City, Nigeria,0.079,0.02,0.02,0.05,+
+980,new,Cochabamba, Bolivia,0.078,0.02,0.02,0.04,
+981,14,Kano, Nigeria,0.076,0.01,0.02,0.04,+
+982,new,Buea, Cameroon,0.076,0.02,0.02,0.04,
+983,16,Maputo, Mozambique,0.074,0.02,0.02,0.03,-
+984,16,Algiers, Algeria,0.071,0.01,0.03,0.03,-
+985,7,Kabul, Afghanistan,0.07,0.02,0.02,0.03,+
+986,new,Yaounde, Cameroon,0.069,0.01,0.02,0.03,
+987,new,Saint Peter Port, Guernsey,0.069,0.05,0.02,0,
+988,new,Jhelum, Pakistan,0.068,0.01,0.02,0.04,
+989,new,Port-au-Prince, Haiti,0.068,0.03,0.02,0.03,
+990,new,Multan, Pakistan,0.067,0.01,0.02,0.04,
+991,8,Kinshasa, Democratic Republic of the Congo,0.066,0.02,0.03,0.02,+
+992,new,Douglas, Isle of Man,0.064,0.01,0.05,0,
+993,new,Chattogram, Bangladesh,0.064,0.01,0.02,0.03,
+994,3,Bridgetown, Barbados,0.062,0.01,0.02,0.03,+
+995,new,Cotonou, Benin,0.061,0.01,0.02,0.03,
+996,26,Ouagadougou, Burkina Faso,0.06,0.02,0.02,0.02,-
+997,new,Baghdad, Iraq,0.058,0.01,0.02,0.03,
+998,13,Mbabane, Swaziland,0.057,0.01,0.02,0.03,-
+999,new,Conakry, Guinea,0.047,0.01,0.02,0.02,
+1000,new,Sanaa, Yemen,0.037,0.01,0.02,0.01,
