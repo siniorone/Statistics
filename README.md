@@ -7,6 +7,7 @@
 2. [Quantitative Data : Histograms](notebooks/002_Quantitative_Data_Histograms.ipynb)
 3. [Quantitative Data Numerical Summaries](notebooks/003_Quantitative_Data_Numerical_Summaries.ipynb)
 4. [Standard Score (Empirical Rule)](notebooks/004_Standard_Score_Empirical_Rule.ipynb)
+5. [Tables Histograms and Boxplots in Python](notebooks/005_Tables_Histograms_and_Boxplots_in_Python.ipynb)
 
 ---
 99. [Usefull Links](notebooks/099_Usefull_Links.ipynb)
