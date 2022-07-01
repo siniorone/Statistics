@@ -1,6 +1,10 @@
 # Statistics
 ![banner](images/charts-gb5c683254_640.png)
 
+###
+Pandas Reviwes:
+1. [Creating, Reading and Writing](pandas/pandas_s1.ipynb)
+2. [Indexing, Selecting & Assigning](pandas/pandas_s2.ipynb)
 ---
 0. [Python Review](notebooks/000_Python_Review.ipynb)
 1. [Categorical Data](notebooks/001_Categorical_Data.ipynb)
