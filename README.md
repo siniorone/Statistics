@@ -6,6 +6,7 @@ Pandas Reviwes:
 1. [Creating, Reading and Writing](pandas/pandas_s1.ipynb)
 2. [Indexing, Selecting & Assigning](pandas/pandas_s2.ipynb)
 3. [Summary Functions and Maps](pandas/pandas_s3.ipynb)
+4. [Grouping and Sorting](pandas/pandas_s4.ipynb)
 ---
 0. [Python Review](notebooks/000_Python_Review.ipynb)
 1. [Categorical Data](notebooks/001_Categorical_Data.ipynb)
